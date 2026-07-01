@@ -265,7 +265,7 @@ const lessonData = [
     ["技术", "jì shù", "technique / skill", "teknik"],
     ["很好的", "hěn hǎo de", "very good", "sangat bagus"],
     ["，", "", "", ""],
-    ["won't会", "bú huì", "will not", "tidak akan"],
+    ["不会", "bú huì", "will not", "tidak akan"],
     ["弄坏", "nòng huài", "break / damage", "merosakkan"],
     ["你的", "tā de", "your", "abang punya"],
     ["车子", "chē zi", "bicycle", "basikal"],
